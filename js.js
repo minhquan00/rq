@@ -1,5 +1,4 @@
-[file name]: neww_optimized.js
-[file content begin]
+
 const net = require('net');
 const tls = require('tls');
 const HPACK = require('hpack');

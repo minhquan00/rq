@@ -836,4 +836,3 @@ if (cluster.isMaster) {
 
     setTimeout(() => process.exit(1), time * 1000);
 }
-[file content end]

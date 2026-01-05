@@ -698,4 +698,3 @@ if (cluster.isMaster) {
     // Tự động exit khi hết time
     setTimeout(() => process.exit(0), time * 1000);
 }
-[file content end]
